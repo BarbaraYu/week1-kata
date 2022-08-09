@@ -56,7 +56,7 @@ table {
 body {
   font-size: 16px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.5;
+  line-height: 1.5rem;
 }
 
 img{
@@ -91,7 +91,7 @@ li {
 
 h2 {
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.2rem;
 }
 
 .mb-24 {
