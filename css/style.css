@@ -71,16 +71,12 @@ img{
   display: flex;
 }
 
-li {
-  display: flex;
-}
-
 .m-20 {
   margin-left: 20px;
   margin-right: 20px;
 }
 
-h2 {
+.h2 {
   font-size: 20px;
   line-height: 1.2rem;
 }
