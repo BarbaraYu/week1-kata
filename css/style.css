@@ -54,7 +54,6 @@ table {
 }
 
 body {
-  font-size: 16px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.5rem;
 }
@@ -70,14 +69,6 @@ img{
 
 .d-flex {
   display: flex;
-}
-
-li p {
-  width: 288px;
-}
-
-ul {
-  list-style: none;
 }
 
 li {
